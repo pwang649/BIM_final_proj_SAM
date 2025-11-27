@@ -71,7 +71,7 @@ def batch_process(image: Image, prompts: List[str], output_dir: str = "outputs",
 
 if __name__ == "__main__":
     image_path = "rgb.png"
-    api_key = "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"
+    api_key = os.environ.get("OPENAI_API_KEY")
     model = "gpt-4o"
     user_prompt = (
         "Describe the objects in the image as prompts (one per line) that's useful for an image segmentation model like SAM. "

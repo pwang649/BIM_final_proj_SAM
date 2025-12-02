@@ -26,15 +26,6 @@ SAM3_PROCESSOR = None
 SAM3D_INFERENCE = None
 
 def transform_mesh_vertices(vertices, rotation, translation, scale):
-	"""
-	Transform mesh vertices from local object space to world/camera frame:
-
-	1. Flip Z-axis ( depending on GLB orientation)
-	2. Convert from Y-up (GLB) to Z-up (canonical PyTorch3D frame)
-	3. Apply GS outputs: scale, rotation, translation
-	4. Convert back to Y-up for GLB export
-	"""
-
 	if isinstance(vertices, np.ndarray):
 		vertices = torch.tensor(vertices, dtype=torch.float32)
 

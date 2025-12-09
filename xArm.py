@@ -154,12 +154,6 @@ class XArm:
         for _ in range(settle):
             p.stepSimulation()
 
-    # def open_gripper(self, opening: float):
-    #     for j in self.gripper_joints:
-    #         p.setJointMotorControl2(self.id, j, p.POSITION_CONTROL, targetPosition=opening, force=80)
-    #     for _ in range(60):
-    #         p.stepSimulation()
-
     def _get_camera_to_world_transform(self):
         ee_pos, ee_quat = self.fk(link=self.camera_link)
         ee_rot = R.from_quat(ee_quat).as_matrix()
@@ -178,10 +172,13 @@ class XArm:
     # xArm APIs
     def execute_path(self, path):
         for q in path:
-            self.xArm.set_servo_angle(angle=q, is_radian=True, speed=DEFAULT_SPEED, wait=False)
+            self.xArm.set_servo_angle(angle=q, is_radian=True, speed=DEFAULT_SPEED, wait=True)
 
-    def open_gripper(self):
-        self.xArm.set_gripper_position(GRIPPER_OPEN_POSITION, wait=True)
+    def open_gripper(self, opening=None):
+        if opening is None:
+            self.xArm.set_gripper_position(GRIPPER_OPEN_POSITION, wait=True)
+        else:
+            self.xArm.set_gripper_position(opening, wait=True)
 
     def close_gripper(self):
         self.xArm.set_gripper_position(GRIPPER_CLOSE_POSITION, wait=True)

@@ -2,10 +2,20 @@ import base64
 import os
 import requests
 import sys
+import io
+from PIL import Image
+
 
 def read_image_as_base64(image_path: str) -> str:
     with open(image_path, "rb") as img_file:
         return base64.b64encode(img_file.read()).decode("utf-8")
+
+
+def pil_image_to_base64(image: Image.Image) -> str:
+    buffered = io.BytesIO()
+    image_format = image.format if image.format else "PNG"
+    image.save(buffered, format=image_format)
+    return base64.b64encode(buffered.getvalue()).decode("utf-8")
 
 def call_openai_chat_completion(api_key: str, model: str, user_prompt: str, base64_image: str, max_tokens: int = 300) -> str:
     headers = {

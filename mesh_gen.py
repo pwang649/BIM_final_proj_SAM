@@ -166,11 +166,12 @@ class RGBD3DReconstructor:
         prompts: List[str],
         output_dir="outputs",
         seed: int = 42
-    ) -> trimesh.Scene:
+    ):
 
         os.makedirs(output_dir, exist_ok=True)
         scene = trimesh.Scene()
 
+        meshes= []
         for prompt in prompts:
             mask = self.segment_image(image, prompt)
             mesh_out = self.reconstruct(
@@ -182,9 +183,10 @@ class RGBD3DReconstructor:
                 seed=seed
             )
             scene.add_geometry(mesh_out["glb"], node_name=prompt)
+            meshes.append(mesh_out["glb"])
 
         scene.export(os.path.join(output_dir, "scene.stl"))
-        return scene
+        return meshes
 
 if __name__ == "__main__":
     recon = RGBD3DReconstructor(

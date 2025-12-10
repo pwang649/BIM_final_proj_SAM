@@ -1,0 +1,50 @@
+# Launch camera node (separate shell)
+cd ~/ros2_ws
+ros2 launch realsense2_camera rs_launch.py
+ros2 topic list | grep /camera/color
+
+# Launch local test
+source ~/mnet_client_venv_new/bin/activate
+cd ~/ros2_ws
+colcon build --packages-select mnet_client
+source /opt/ros/jazzy/setup.bash
+source install/setup.bash
+ros2 run mnet_client local_test
+
+# Camera view
+source /opt/ros/jazzy/setup.bash
+ros2 run image_tools showimage --ros-args -r image:=/camera/camera/color/image_raw
+
+# During test
+ros2 topic echo /mnet_client/ongoing_task
+ros2 run image_view image_view --ros-args -r image:=/mnet_client/current_vision_instruction  # (to visualize obj placement of curr task)
+ros2 topic echo /mnet_client/current_language_instruction  # (NO NEED FOR GRASPING TASK)
+# Mark finished or skipped
+ros2 service call /mnet_client/current_task_finished std_srvs/srv/Trigger "{}"
+ros2 service call /mnet_client/current_task_skipped  std_srvs/srv/Trigger "{}"
+
+#  !!!!! add this line to setup.cfg to avoid package not found error for ROS + venv!!!!!!!!!!
+[build_scripts]
+executable = /usr/bin/env python3
+
+# how to fix "[ERROR:0@16.343] global cap_ffmpeg_impl.hpp:3207 open Could not find encoder for codec_id=27, error: Encoder not found"
+https://stackoverflow.com/questions/70247344/save-video-in-opencv-with-h264-codec
+
+# Install system OpenCV + ffmpeg + x264
+sudo apt update
+sudo apt install -y python3-opencv ffmpeg libx264-dev
+
+# Create venv with: python3.12 -m venv ~/mnet_client_venv_new --system-site-packages
+https://mnet-client.readthedocs.io/ros_2/installation.html
+SKIP PIP OPENCV INSTALLATION!!!!!!!!!!!!!!! USE SYSTEM ONE!!!!!!!!!
+apt installations.... (on the website)
+pip install requests pydantic>=2.0 pybullet pyyaml pupil-apriltags tqdm
+
+# Verify the cv2 in use is the system one!!!!!!!!!
+python3 - <<'PY'
+import cv2, sys
+print("cv2 path:", getattr(cv2, "__file__", None))
+print("cv2 version:", getattr(cv2, "__version__", None))
+print("Has FFMPEG?", hasattr(cv2, "getBuildInformation") and ("FFMPEG" in cv2.getBuildInformation()))
+PY
+

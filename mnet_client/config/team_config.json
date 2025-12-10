@@ -1,0 +1,9 @@
+{
+    "team_unique_code": "local_test_placeholder_only", 
+    "camera_image_topic": "/camera/camera/color/image_raw",
+    "camera_info_topic": "/camera/camera/color/camera_info",
+    "file_dir": "/home/peter/ros2_ws/mnet_logs",
+    "autonomy_level": 2
+}
+  
+  

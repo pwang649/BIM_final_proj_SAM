@@ -41,8 +41,8 @@ class Demo:
             q_min=np.array(self.robot.lower),
             q_max=np.array(self.robot.upper),
             step_size=0.2,
-            goal_bias=0.5,
-            max_iter=3000,
+            goal_bias=0.4,
+            max_iter=6000,
             goal_threshold=0.05
         )
 
@@ -102,6 +102,7 @@ class Demo:
         return body_id, world_centroid
 
     def pick_and_place_mesh(self, mesh):
+        self.robot.reset(self.home)
         mesh_id, mesh_centroid = self.load_mesh_object(mesh)
         pick_pos = np.array(mesh_centroid)
         pick_pos_buffer = pick_pos.copy()

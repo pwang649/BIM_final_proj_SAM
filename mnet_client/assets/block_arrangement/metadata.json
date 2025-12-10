@@ -1,0 +1,1802 @@
+{
+    "task1": {
+      "mode": "L",
+      "image": null,
+      "description": "Place a single orange block on the table.",
+      "level": "entry"
+    },
+    "task2": {
+      "mode": "L",
+      "image": null,
+      "description": "Set a single blue block down onto the table.",
+      "level": "entry"
+    },
+    "task3": {
+      "mode": "L",
+      "image": null,
+      "description": "Set a single green block on the table.",
+      "level": "entry"
+    },
+    "task4": {
+      "mode": "L",
+      "image": null,
+      "description": "Place a single red block down on the table.",
+      "level": "entry"
+    },
+    "task5": {
+      "mode": "L",
+      "image": null,
+      "description": "Set a single green block down on the table.",
+      "level": "entry"
+    },
+    "task6": {
+      "mode": "L",
+      "image": null,
+      "description": "Set a single orange block onto the table.",
+      "level": "entry"
+    },
+    "task7": {
+      "mode": "L",
+      "image": null,
+      "description": "Position a single yellow block on the table.",
+      "level": "entry"
+    },
+    "task8": {
+      "mode": "L",
+      "image": null,
+      "description": "Put an individual orange block onto the table.",
+      "level": "entry"
+    },
+    "task9": {
+      "mode": "L",
+      "image": null,
+      "description": "Set a single blue block onto the table.",
+      "level": "entry"
+    },
+    "task10": {
+      "mode": "L",
+      "image": null,
+      "description": "Set a single red block onto the table.",
+      "level": "entry"
+    },
+    "task11": {
+      "mode": "L",
+      "image": null,
+      "description": "Arrange four blocks in a horizontal row on the table, with the third block from the left as orange and the others as yellow.",
+      "level": "easy"
+    },
+    "task12": {
+      "mode": "L",
+      "image": null,
+      "description": "Arrange four blocks in a row on the table: place a blue block in the third spot from the right, and fill the other positions with red blocks.",
+      "level": "easy"
+    },
+    "task13": {
+      "mode": "L",
+      "image": null,
+      "description": "Arrange four blocks in a vertical line on the table: put an orange block at the front, followed by three green blocks.",
+      "level": "easy"
+    },
+    "task14": {
+      "mode": "L",
+      "image": null,
+      "description": "Build a 4-block vertical line front to back on the table: 1st block yellow, 2nd orange, 3rd orange, 4th red.",
+      "level": "easy"
+    },
+    "task15": {
+      "mode": "L",
+      "image": null,
+      "description": "Build a vertical 3-block line on the table, front to back: blue in the middle, yellow at the back and front.",
+      "level": "easy"
+    },
+    "task16": {
+      "mode": "L",
+      "image": null,
+      "description": "Build a vertical row of three red blocks from back to front on the table. Stack a blue block atop each red block.",
+      "level": "easy"
+    },
+    "task17": {
+      "mode": "L",
+      "image": null,
+      "description": "Lay a green 4-block line flat on the table, running horizontally from right to left.",
+      "level": "easy"
+    },
+    "task18": {
+      "mode": "L",
+      "image": null,
+      "description": "On the table, build a vertical line of 3 blocks from back to front: place a green block at the front end and blue blocks in the other two positions.",
+      "level": "easy"
+    },
+    "task19": {
+      "mode": "L",
+      "image": null,
+      "description": "Place a green block on the table, then stack a blue block on each existing block.",
+      "level": "easy"
+    },
+    "task20": {
+      "mode": "L",
+      "image": null,
+      "description": "Place a green block on the table. To its left, leave one space, then place three orange blocks in a row, from right to left.",
+      "level": "easy"
+    },
+    "task21": {
+      "mode": "L",
+      "image": null,
+      "description": "Place a red 3-block vertical line front to back on the table.",
+      "level": "easy"
+    },
+    "task22": {
+      "mode": "L",
+      "image": null,
+      "description": "Place a red block on the table, then stack a yellow block on top of each block in the structure.",
+      "level": "easy"
+    },
+    "task23": {
+      "mode": "L",
+      "image": null,
+      "description": "Place two orange blocks side by side on the table. Stack an orange block on top of each one.",
+      "level": "easy"
+    },
+    "task24": {
+      "mode": "L",
+      "image": null,
+      "description": "Put a blue block on the table. Stack a red block on each existing block in the structure.",
+      "level": "easy"
+    },
+    "task25": {
+      "mode": "L",
+      "image": null,
+      "description": "Put a red block on the table, then stack a blue block on each existing block.",
+      "level": "easy"
+    },
+    "task26": {
+      "mode": "L",
+      "image": null,
+      "description": "Put a red block on the table. Stack another red block on each existing block in the structure.",
+      "level": "easy"
+    },
+    "task27": {
+      "mode": "L",
+      "image": null,
+      "description": "Put a yellow block on the table, then stack a red block on top of each existing block.",
+      "level": "easy"
+    },
+    "task28": {
+      "mode": "L",
+      "image": null,
+      "description": "Put a yellow block on the table. Then, one space to its left, build a vertical row of two blocks (front to back) with a green block at the back and a red block in front.",
+      "level": "easy"
+    },
+    "task29": {
+      "mode": "L",
+      "image": null,
+      "description": "Set a red block on the table. Position an orange block two spaces directly behind it. Place a green block one space to the right of the orange block.",
+      "level": "easy"
+    },
+    "task30": {
+      "mode": "L",
+      "image": null,
+      "description": "Start with a blue block on the table. Stack a blue block on each existing block.",
+      "level": "easy"
+    },
+    "task31": {
+      "mode": "L",
+      "image": null,
+      "description": "Arrange four blocks in a vertical line from back to front on the table, with the third block from the front orange and the rest red.",
+      "level": "easy"
+    },
+    "task32": {
+      "mode": "L",
+      "image": null,
+      "description": "Arrange two blocks in a horizontal line on the table, with the right block yellow and the left block green. Then, stack a green block on top of each green block in the structure.",
+      "level": "easy"
+    },
+    "task33": {
+      "mode": "L",
+      "image": null,
+      "description": "Build a 2-block vertical stack on the table with a red block on top and a yellow block below. Next, place a single yellow block two spaces to the right and one space behind the stack.",
+      "level": "easy"
+    },
+    "task34": {
+      "mode": "L",
+      "image": null,
+      "description": "Build a 2-block vertical stack on the table: bottom block blue, top block yellow. Then, place a red block one space left and one space forward from the stack.",
+      "level": "easy"
+    },
+    "task35": {
+      "mode": "L",
+      "image": null,
+      "description": "Build a two-block horizontal line from right to left on the table: the block second from the right is blue, and the rest green. Then, position a red block two spaces directly in front of this line.",
+      "level": "easy"
+    },
+    "task36": {
+      "mode": "L",
+      "image": null,
+      "description": "Build a vertical row of four blocks on the table, front to back. Make the second block red and all others green.",
+      "level": "easy"
+    },
+    "task37": {
+      "mode": "L",
+      "image": null,
+      "description": "Lay three yellow blocks in a straight, horizontal row on the table.",
+      "level": "easy"
+    },
+    "task38": {
+      "mode": "L",
+      "image": null,
+      "description": "Place a blue block on the table. Then, three spaces behind it, place a red two-block line horizontally from right to left.",
+      "level": "easy"
+    },
+    "task39": {
+      "mode": "L",
+      "image": null,
+      "description": "Position a blue 4-block vertical line on the table, running from back to front.",
+      "level": "easy"
+    },
+    "task40": {
+      "mode": "L",
+      "image": null,
+      "description": "Position a vertical line of four yellow blocks on the table.",
+      "level": "easy"
+    },
+    "task41": {
+      "mode": "L",
+      "image": null,
+      "description": "Put a green block on the table, then stack a red block on top of each block in the structure.",
+      "level": "easy"
+    },
+    "task42": {
+      "mode": "L",
+      "image": null,
+      "description": "Put a green block on the table, then stack a yellow block on each existing block.",
+      "level": "easy"
+    },
+    "task43": {
+      "mode": "L",
+      "image": null,
+      "description": "Put a red block on the table, then stack a blue block on top of each red block.",
+      "level": "easy"
+    },
+    "task44": {
+      "mode": "L",
+      "image": null,
+      "description": "Put a red block on the table, then stack an orange block on each existing block in the structure.",
+      "level": "easy"
+    },
+    "task45": {
+      "mode": "L",
+      "image": null,
+      "description": "Start with a yellow block on the table. Stack a yellow block on top of each existing block in the structure.",
+      "level": "easy"
+    },
+    "task46": {
+      "mode": "L",
+      "image": null,
+      "description": "Arrange four blocks in a vertical line on the table. Start from the back: place a green block, then a red block, then another green block, and finally a yellow block at the front.",
+      "level": "easy"
+    },
+    "task47": {
+      "mode": "L",
+      "image": null,
+      "description": "Arrange three blocks in a straight front-to-back line on the table: the middle block and the last block at the back are yellow, and the rest are blue.",
+      "level": "easy"
+    },
+    "task48": {
+      "mode": "L",
+      "image": null,
+      "description": "Build a 2-block horizontal row from right to left on the table, coloring the left block green and the right block orange. Then, stack a green block on top of the orange block.",
+      "level": "easy"
+    },
+    "task49": {
+      "mode": "L",
+      "image": null,
+      "description": "Build a horizontal 2-block line on the table: make the right block red and the left block blue. Then, stack a yellow block on top of the blue block.",
+      "level": "easy"
+    },
+    "task50": {
+      "mode": "L",
+      "image": null,
+      "description": "Create a horizontal line of four blocks on the table: the left two blocks are blue, the right two are orange. Next, place a single blue block directly in front of the leftmost block of the line.",
+      "level": "easy"
+    },
+    "task51": {
+      "mode": "L",
+      "image": null,
+      "description": "On the table, arrange three blocks in a horizontal row from right to left: red in the middle, blue on the left and right ends.",
+      "level": "easy"
+    },
+    "task52": {
+      "mode": "L",
+      "image": null,
+      "description": "Place a blue block on the table. Then, position a green 4-block vertical line (flat, front to back) one space behind the blue block.",
+      "level": "easy"
+    },
+    "task53": {
+      "mode": "L",
+      "image": null,
+      "description": "Place a red block on the table. Stack an additional red block on top of each existing block in the structure.",
+      "level": "easy"
+    },
+    "task54": {
+      "mode": "L",
+      "image": null,
+      "description": "Place three green blocks in a vertical line from the back to the front of the table.",
+      "level": "easy"
+    },
+    "task55": {
+      "mode": "L",
+      "image": null,
+      "description": "Put a red block on the table, then stack an orange block on each block in the structure.",
+      "level": "easy"
+    },
+    "task56": {
+      "mode": "L",
+      "image": null,
+      "description": "Put a red block on the table. Place a green block one space right and one space back from the red block. Stack a blue block on top of each red block.",
+      "level": "easy"
+    },
+    "task57": {
+      "mode": "L",
+      "image": null,
+      "description": "Put a yellow block on the table, then stack a blue block on each block in the structure.",
+      "level": "easy"
+    },
+    "task58": {
+      "mode": "L",
+      "image": null,
+      "description": "Put a yellow block on the table, then stack a red block on each existing block.",
+      "level": "easy"
+    },
+    "task59": {
+      "mode": "L",
+      "image": null,
+      "description": "Put a yellow block on the table, then stack an orange block on top of each existing block.",
+      "level": "easy"
+    },
+    "task60": {
+      "mode": "L",
+      "image": null,
+      "description": "Put an orange block on the table. Stack a red block on each existing block.",
+      "level": "easy"
+    },
+    "task61": {
+      "mode": "L",
+      "image": null,
+      "description": "Stack two green blocks vertically on the table. Then, position a single yellow block two spaces to the right of the green stack.",
+      "level": "easy"
+    },
+    "task62": {
+      "mode": "L",
+      "image": null,
+      "description": "Stack two orange blocks vertically on the table. Then, place one yellow block in front of the stack.",
+      "level": "easy"
+    },
+    "task63": {
+      "mode": "L",
+      "image": null,
+      "description": "Arrange four blocks in a horizontal row on the table: place a green block in the leftmost spot and fill the remaining three spots to its right with red blocks.",
+      "level": "easy"
+    },
+    "task64": {
+      "mode": "L",
+      "image": null,
+      "description": "Arrange four yellow blocks in a straight vertical line from front to back on the table.",
+      "level": "easy"
+    },
+    "task65": {
+      "mode": "L",
+      "image": null,
+      "description": "Arrange three blocks in a horizontal row on the table: red on the left, blue on the right, and yellow in the middle.",
+      "level": "easy"
+    },
+    "task66": {
+      "mode": "L",
+      "image": null,
+      "description": "Arrange three green blocks in a horizontal row, right to left, on the table.",
+      "level": "easy"
+    },
+    "task67": {
+      "mode": "L",
+      "image": null,
+      "description": "Arrange two blocks in a horizontal line on the table, with the right block orange and the left block yellow. Then, stack a blue block on top of each.",
+      "level": "easy"
+    },
+    "task68": {
+      "mode": "L",
+      "image": null,
+      "description": "Build a 2-block horizontal row from right to left with the left block green and the right block red. Then, stack a yellow block on top of the green block.",
+      "level": "easy"
+    },
+    "task69": {
+      "mode": "L",
+      "image": null,
+      "description": "Build a vertical line of three blocks on the table, with the bottom block red and the two above it yellow.",
+      "level": "easy"
+    },
+    "task70": {
+      "mode": "L",
+      "image": null,
+      "description": "Build a vertical two-block line from back to front: place a green block at the back and a red block in front. Then, add an orange block on top of the back (green) block only.",
+      "level": "easy"
+    },
+    "task71": {
+      "mode": "L",
+      "image": null,
+      "description": "Lay a green row of 3 blocks horizontally on the table.",
+      "level": "easy"
+    },
+    "task72": {
+      "mode": "L",
+      "image": null,
+      "description": "Place a red block on the table. Three spaces in front of it, build a vertical line of two blocks where the back block is orange and the front block is not.",
+      "level": "easy"
+    },
+    "task73": {
+      "mode": "L",
+      "image": null,
+      "description": "Place a vertical blue line of 4 blocks on the table, running from back to front.",
+      "level": "easy"
+    },
+    "task74": {
+      "mode": "L",
+      "image": null,
+      "description": "Place a yellow single block on the table. Then, three spaces in front of it, arrange four red blocks in a horizontal row from left to right.",
+      "level": "easy"
+    },
+    "task75": {
+      "mode": "L",
+      "image": null,
+      "description": "Position a vertical line of four green blocks on the table.",
+      "level": "easy"
+    },
+    "task76": {
+      "mode": "L",
+      "image": null,
+      "description": "Put a red block on the table. Next, place a green vertical 2-block piece one space to the right of the red block.",
+      "level": "easy"
+    },
+    "task77": {
+      "mode": "L",
+      "image": null,
+      "description": "Put a yellow block on the table, then stack a red block on top of each yellow block.",
+      "level": "easy"
+    },
+    "task78": {
+      "mode": "L",
+      "image": null,
+      "description": "Set a red 2-block vertical stack on the table. Next, position a single green block three spaces to the right of the red stack.",
+      "level": "easy"
+    },
+    "task79": {
+      "mode": "L",
+      "image": null,
+      "description": "Start with a green block on the table. Stack a green block on top of each existing block.",
+      "level": "easy"
+    },
+    "task80": {
+      "mode": "L",
+      "image": null,
+      "description": "Start with one blue block on the table. Stack a blue block on top of each existing block in the structure.",
+      "level": "easy"
+    },
+    "task81": {
+      "mode": "L",
+      "image": null,
+      "description": "Build a vertical blue-and-orange 2-block line (orange in back, blue in front) on the table. Then, 2 spaces left of this line, place a horizontal red 3-block line.",
+      "level": "medium"
+    },
+    "task82": {
+      "mode": "L",
+      "image": null,
+      "description": "Build a vertical line of four blocks from back to front on the table, with the second block from the back in red and the others in orange. Then, place a blue block two spaces in front of this line.",
+      "level": "medium"
+    },
+    "task83": {
+      "mode": "L",
+      "image": null,
+      "description": "Build a vertical line of four orange blocks from back to front on the table. Stack one green block on top of each orange block.",
+      "level": "medium"
+    },
+    "task84": {
+      "mode": "L",
+      "image": null,
+      "description": "Build a vertical stack of 4 blocks on the table, alternating blue and yellow from back to front, starting with blue at the front. Then, put an orange block on top of each yellow block.",
+      "level": "medium"
+    },
+    "task85": {
+      "mode": "L",
+      "image": null,
+      "description": "Build a vertical stack using two blocks: place a blue block on the table, then a green block on top. Next, add a yellow block on top of the green block.",
+      "level": "medium"
+    },
+    "task86": {
+      "mode": "L",
+      "image": null,
+      "description": "Create a horizontal row of three blocks—orange, blue (center), and orange (from right to left)—on the table. Then, place a vertical orange stack of two blocks directly behind the rightmost block of the row.",
+      "level": "medium"
+    },
+    "task87": {
+      "mode": "L",
+      "image": null,
+      "description": "On the table, build a vertical line of four blocks: blue at the top and bottom, orange in the middle two slots.",
+      "level": "medium"
+    },
+    "task88": {
+      "mode": "L",
+      "image": null,
+      "description": "Create a 2-block horizontal line on the table: place a blue block on the right, and a yellow block on the left. Next, position a 3-block horizontal line three blocks right and two blocks back from the first line: place a yellow block third from the right, with orange blocks in the other two spaces.",
+      "level": "medium"
+    },
+    "task89": {
+      "mode": "L",
+      "image": null,
+      "description": "Build a horizontal row of three orange blocks, with the middle one orange, on the table. Then, place a yellow block three spaces right and three spaces forward from the leftmost orange block.",
+      "level": "medium"
+    },
+    "task90": {
+      "mode": "L",
+      "image": null,
+      "description": "Set a yellow block on the table. Then, 3 blocks right and 1 block forward from it, build a vertical row of 4 blocks (front-to-back): the first block is yellow, the next three are green.",
+      "level": "medium"
+    },
+    "task91": {
+      "mode": "L",
+      "image": null,
+      "description": "Build a horizontal row of three blocks, placing an orange block third from the right and orange blocks in the other positions. Remove the middle block, shift the remaining structure forward by one block, and stack a red block on top of each remaining block.",
+      "level": "hard"
+    },
+    "task92": {
+      "mode": "L",
+      "image": null,
+      "description": "Build a 2-block vertical line (front to back) on the table: the block closer to the back is yellow, the other is orange.  Place a vertical green stack of 2 blocks, 2 spaces in front of this line.  Add a yellow block on top of every alternate block of the first line, starting from the back.",
+      "level": "hard"
+    },
+    "task93": {
+      "mode": "L",
+      "image": null,
+      "description": "Build a vertical line of four blocks on the table—two orange blocks at the back, two blue blocks at the front. Remove the front (blue) half. Add an orange block on top of each remaining block. Change the bottom layer to red, then remove any blue blocks.",
+      "level": "hard"
+    },
+    "task94": {
+      "mode": "L",
+      "image": null,
+      "description": "Build a vertical stack of three blocks: yellow at the bottom, blue on top, and orange in the middle. Place it on the table. Change all block colors to green, then shift the stack one block to the right.",
+      "level": "hard"
+    },
+    "task95": {
+      "mode": "L",
+      "image": null,
+      "description": "1. Lay a green horizontal row of 3 blocks on the table.  2. Build a vertical orange stack of 3 blocks, placing it one space right of the green row.  3. Change the color of the second green block to yellow.  4. Move the orange stack one space left and three spaces back.",
+      "level": "hard"
+    },
+    "task96": {
+      "mode": "L",
+      "image": null,
+      "description": "1. Build a 2-block horizontal row on the table, left to right; make the right block red and the left block orange.  2. Place a 2-layer, 4-block-wide upright pyramid wall three spaces to the left of this row.  3. Change all blocks in the pyramid wall to blue.  4. Change the color of blocks along the top right diagonal edge of the pyramid to green.  5. Stack a yellow block on top of the leftmost block in the horizontal row.",
+      "level": "hard"
+    },
+    "task97": {
+      "mode": "L",
+      "image": null,
+      "description": "1. Place a yellow 2x2 square on the table.  2. Change the blocks in the second column from the left to green.  3. Remove the back row from the 2x2 square.  4. One block in front of the original square, build a vertical line of three blocks (from back to front), with the middle block blue and the other two red.  5. Slide this vertical line two blocks left and three blocks forward.",
+      "level": "hard"
+    },
+    "task98": {
+      "mode": "L",
+      "image": null,
+      "description": "Build a 3x3 blue square upright on the table, stretching left to right. Change the rightmost column to green blocks. Then, make the next column to the left blue.",
+      "level": "hard"
+    },
+    "task99": {
+      "mode": "L",
+      "image": null,
+      "description": "1. Stand a blue rectangle (3 blocks wide, 2 blocks tall) on the table from left to right. 2. Place a vertical yellow stack (3 blocks high) on the table, positioned 3 blocks to the left of the blue rectangle. 3. Move the blue rectangle 3 blocks forward.",
+      "level": "hard"
+    },
+    "task100": {
+      "mode": "L",
+      "image": null,
+      "description": "1. Build a vertical line of 4 blocks front to back on the table: front 2 blocks yellow, back 2 blocks blue.  2. Three spaces to the left, make another vertical line of 3 blocks: the back block yellow, the other two green.  3. Remove the second block from the back of the first line.  4. Place a blue block on top of each block in the second line.  5. Move the entire second line 3 spaces left and 3 spaces back.",
+      "level": "hard"
+    },
+    "task101": {
+        "mode": "V",
+        "image": "393.png",
+        "description": null,
+        "level": "entry"
+      },
+      "task102": {
+        "mode": "V",
+        "image": "394.png",
+        "description": null,
+        "level": "entry"
+      },
+      "task103": {
+        "mode": "V",
+        "image": "437.png",
+        "description": null,
+        "level": "entry"
+      },
+      "task104": {
+        "mode": "V",
+        "image": "438.png",
+        "description": null,
+        "level": "entry"
+      },
+      "task105": {
+        "mode": "V",
+        "image": "81.png",
+        "description": null,
+        "level": "entry"
+      },
+      "task106": {
+        "mode": "V",
+        "image": "82.png",
+        "description": null,
+        "level": "entry"
+      },
+      "task107": {
+        "mode": "V",
+        "image": "83.png",
+        "description": null,
+        "level": "entry"
+      },
+      "task108": {
+        "mode": "V",
+        "image": "84.png",
+        "description": null,
+        "level": "entry"
+      },
+      "task109": {
+        "mode": "V",
+        "image": "85.png",
+        "description": null,
+        "level": "entry"
+      },
+      "task110": {
+        "mode": "V",
+        "image": "86.png",
+        "description": null,
+        "level": "entry"
+      },
+      "task111": {
+        "mode": "V",
+        "image": "145.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task112": {
+        "mode": "V",
+        "image": "146.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task113": {
+        "mode": "V",
+        "image": "147.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task114": {
+        "mode": "V",
+        "image": "148.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task115": {
+        "mode": "V",
+        "image": "177.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task116": {
+        "mode": "V",
+        "image": "178.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task117": {
+        "mode": "V",
+        "image": "191.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task118": {
+        "mode": "V",
+        "image": "196.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task119": {
+        "mode": "V",
+        "image": "200.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task120": {
+        "mode": "V",
+        "image": "312.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task121": {
+        "mode": "V",
+        "image": "313.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task122": {
+        "mode": "V",
+        "image": "314.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task123": {
+        "mode": "V",
+        "image": "315.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task124": {
+        "mode": "V",
+        "image": "316.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task125": {
+        "mode": "V",
+        "image": "318.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task126": {
+        "mode": "V",
+        "image": "319.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task127": {
+        "mode": "V",
+        "image": "320.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task128": {
+        "mode": "V",
+        "image": "321.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task129": {
+        "mode": "V",
+        "image": "322.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task130": {
+        "mode": "V",
+        "image": "324.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task131": {
+        "mode": "V",
+        "image": "334.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task132": {
+        "mode": "V",
+        "image": "335.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task133": {
+        "mode": "V",
+        "image": "336.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task134": {
+        "mode": "V",
+        "image": "337.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task135": {
+        "mode": "V",
+        "image": "344.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task136": {
+        "mode": "V",
+        "image": "345.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task137": {
+        "mode": "V",
+        "image": "346.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task138": {
+        "mode": "V",
+        "image": "347.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task139": {
+        "mode": "V",
+        "image": "352.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task140": {
+        "mode": "V",
+        "image": "357.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task141": {
+        "mode": "V",
+        "image": "358.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task142": {
+        "mode": "V",
+        "image": "363.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task143": {
+        "mode": "V",
+        "image": "364.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task144": {
+        "mode": "V",
+        "image": "385.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task145": {
+        "mode": "V",
+        "image": "386.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task146": {
+        "mode": "V",
+        "image": "392.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task147": {
+        "mode": "V",
+        "image": "395.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task148": {
+        "mode": "V",
+        "image": "396.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task149": {
+        "mode": "V",
+        "image": "397.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task150": {
+        "mode": "V",
+        "image": "398.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task151": {
+        "mode": "V",
+        "image": "399.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task152": {
+        "mode": "V",
+        "image": "400.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task153": {
+        "mode": "V",
+        "image": "401.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task154": {
+        "mode": "V",
+        "image": "402.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task155": {
+        "mode": "V",
+        "image": "403.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task156": {
+        "mode": "V",
+        "image": "404.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task157": {
+        "mode": "V",
+        "image": "405.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task158": {
+        "mode": "V",
+        "image": "406.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task159": {
+        "mode": "V",
+        "image": "407.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task160": {
+        "mode": "V",
+        "image": "408.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task161": {
+        "mode": "V",
+        "image": "409.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task162": {
+        "mode": "V",
+        "image": "410.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task163": {
+        "mode": "V",
+        "image": "411.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task164": {
+        "mode": "V",
+        "image": "412.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task165": {
+        "mode": "V",
+        "image": "413.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task166": {
+        "mode": "V",
+        "image": "414.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task167": {
+        "mode": "V",
+        "image": "415.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task168": {
+        "mode": "V",
+        "image": "416.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task169": {
+        "mode": "V",
+        "image": "417.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task170": {
+        "mode": "V",
+        "image": "418.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task171": {
+        "mode": "V",
+        "image": "419.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task172": {
+        "mode": "V",
+        "image": "420.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task173": {
+        "mode": "V",
+        "image": "421.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task174": {
+        "mode": "V",
+        "image": "422.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task175": {
+        "mode": "V",
+        "image": "423.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task176": {
+        "mode": "V",
+        "image": "424.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task177": {
+        "mode": "V",
+        "image": "425.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task178": {
+        "mode": "V",
+        "image": "426.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task179": {
+        "mode": "V",
+        "image": "427.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task180": {
+        "mode": "V",
+        "image": "432.png",
+        "description": null,
+        "level": "easy"
+      },
+      "task181": {
+        "mode": "V",
+        "image": "167.png",
+        "description": null,
+        "level": "medium"
+      },
+      "task182": {
+        "mode": "V",
+        "image": "300.png",
+        "description": null,
+        "level": "medium"
+      },
+      "task183": {
+        "mode": "V",
+        "image": "323.png",
+        "description": null,
+        "level": "medium"
+      },
+      "task184": {
+        "mode": "V",
+        "image": "360.png",
+        "description": null,
+        "level": "medium"
+      },
+      "task185": {
+        "mode": "V",
+        "image": "388.png",
+        "description": null,
+        "level": "medium"
+      },
+      "task186": {
+        "mode": "V",
+        "image": "391.png",
+        "description": null,
+        "level": "medium"
+      },
+      "task187": {
+        "mode": "V",
+        "image": "6.png",
+        "description": null,
+        "level": "medium"
+      },
+      "task188": {
+        "mode": "V",
+        "image": "87.png",
+        "description": null,
+        "level": "medium"
+      },
+      "task189": {
+        "mode": "V",
+        "image": "101.png",
+        "description": null,
+        "level": "medium"
+      },
+      "task190": {
+        "mode": "V",
+        "image": "143.png",
+        "description": null,
+        "level": "medium"
+      },
+      "task191": {
+        "mode": "V",
+        "image": "122.png",
+        "description": null,
+        "level": "hard"
+      },
+      "task192": {
+        "mode": "V",
+        "image": "153.png",
+        "description": null,
+        "level": "hard"
+      },
+      "task193": {
+        "mode": "V",
+        "image": "169.png",
+        "description": null,
+        "level": "hard"
+      },
+      "task194": {
+        "mode": "V",
+        "image": "250.png",
+        "description": null,
+        "level": "hard"
+      },
+      "task195": {
+        "mode": "V",
+        "image": "258.png",
+        "description": null,
+        "level": "hard"
+      },
+      "task196": {
+        "mode": "V",
+        "image": "27.png",
+        "description": null,
+        "level": "hard"
+      },
+      "task197": {
+        "mode": "V",
+        "image": "274.png",
+        "description": null,
+        "level": "hard"
+      },
+      "task198": {
+        "mode": "V",
+        "image": "277.png",
+        "description": null,
+        "level": "hard"
+      },
+      "task199": {
+        "mode": "V",
+        "image": "368.png",
+        "description": null,
+        "level": "hard"
+      },
+      "task200": {
+        "mode": "V",
+        "image": "61.png",
+        "description": null,
+        "level": "hard"
+      },
+      "task201": {
+        "mode": "VL",
+        "image": "438.png",
+        "description": "Build a single block structure using only the blue block.",
+        "level": "entry"
+      },
+      "task202": {
+        "mode": "VL",
+        "image": "81.png",
+        "description": "Build a single block structure, but change the color to blue.",
+        "level": "entry"
+      },
+      "task203": {
+        "mode": "VL",
+        "image": "82.png",
+        "description": "Build a single block structure using the red block from the image.",
+        "level": "entry"
+      },
+      "task204": {
+        "mode": "VL",
+        "image": "83.png",
+        "description": "Build a single block structure using only the color orange.",
+        "level": "entry"
+      },
+      "task205": {
+        "mode": "VL",
+        "image": "394.png",
+        "description": "Build a single block structure inspired by the image, but use a red block instead of yellow.",
+        "level": "entry"
+      },
+      "task206": {
+        "mode": "VL",
+        "image": "437.png",
+        "description": "Build the structure using only one block, then replace it with a yellow block.",
+        "level": "entry"
+      },
+      "task207": {
+        "mode": "VL",
+        "image": "438.png",
+        "description": "Build a single block structure using only the color blue.",
+        "level": "entry"
+      },
+      "task208": {
+        "mode": "VL",
+        "image": "393.png",
+        "description": "Build a single block structure and change the color to red.",
+        "level": "entry"
+      },
+      "task209": {
+        "mode": "VL",
+        "image": "393.png",
+        "description": "Build a single block structure but use a yellow block instead of the color shown in the image.",
+        "level": "entry"
+      },
+      "task210": {
+        "mode": "VL",
+        "image": "83.png",
+        "description": "Build a single block structure, but use a yellow block instead of the one shown.",
+        "level": "entry"
+      },
+      "task211": {
+        "mode": "VL",
+        "image": "145.png",
+        "description": "Build three blocks in a row like in the image, but replace the middle block with a blue one. Then, place a green block on top of the left yellow block.",
+        "level": "easy"
+      },
+      "task212": {
+        "mode": "VL",
+        "image": "178.png",
+        "description": "Build the three blocks in a straight line but swap the positions of the green and right orange blocks.",
+        "level": "easy"
+      },
+      "task213": {
+        "mode": "VL",
+        "image": "200.png",
+        "description": "Build a two-block stack like in the image, but replace the bottom block with green and the top block with yellow.",
+        "level": "easy"
+      },
+      "task214": {
+        "mode": "VL",
+        "image": "312.png",
+        "description": "Build the two blocks as shown, but swap the colors so the left block is yellow and the right block is red.",
+        "level": "easy"
+      },
+      "task215": {
+        "mode": "VL",
+        "image": "320.png",
+        "description": "Build the three-block row from the image, then replace the middle orange block with a blue block.",
+        "level": "easy"
+      },
+      "task216": {
+        "mode": "VL",
+        "image": "336.png",
+        "description": "Build a row of four blocks, but replace the second and fourth blocks with blue ones.",
+        "level": "easy"
+      },
+      "task217": {
+        "mode": "VL",
+        "image": "363.png",
+        "description": "Build a circle using the blocks in the image, but swap the positions of the green and yellow blocks. Then, add an additional blue block on top of the existing blue block to create a small tower at the bottom of the circle.",
+        "level": "easy"
+      },
+      "task218": {
+        "mode": "VL",
+        "image": "400.png",
+        "description": "Build the two blocks on the right but replace the red block with a yellow block. Then place the blue block from the left above the orange block, creating a vertical column.",
+        "level": "easy"
+      },
+      "task219": {
+        "mode": "VL",
+        "image": "408.png",
+        "description": "Build the two bottom blocks as yellow and green instead of blue and orange, then place a single blue block centered on top of them.",
+        "level": "easy"
+      },
+      "task220": {
+        "mode": "VL",
+        "image": "414.png",
+        "description": "Build the two yellow blocks side by side on the bottom, then place a blue block centered above them instead of the orange one.",
+        "level": "easy"
+      },
+      "task221": {
+        "mode": "VL",
+        "image": "86.png",
+        "description": "Build a single block similar to the one in the image, but use a red block instead of blue.",
+        "level": "easy"
+      },
+      "task222": {
+        "mode": "VL",
+        "image": "146.png",
+        "description": "Use the three blocks to form a vertical stack, arranging them in the order green on the bottom, yellow in the middle, and red on top.",
+        "level": "easy"
+      },
+      "task223": {
+        "mode": "VL",
+        "image": "147.png",
+        "description": "Use all the blocks to form a single horizontal line, starting with green on the left, followed by yellow, and ending with red on the right.",
+        "level": "easy"
+      },
+      "task224": {
+        "mode": "VL",
+        "image": "321.png",
+        "description": "Build the structure as a horizontal line using the blocks from the image but rearrange the order to yellow, red, then orange.",
+        "level": "easy"
+      },
+      "task225": {
+        "mode": "VL",
+        "image": "321.png",
+        "description": "Build the structure vertically with the blocks stacked in this order from bottom to top: yellow, orange, red, then add a blue block on top.",
+        "level": "easy"
+      },
+      "task226": {
+        "mode": "VL",
+        "image": "347.png",
+        "description": "Build the structure using the green block as the center, then place the two blue blocks to the left and right of the green block, creating a horizontal line. Replace the orange block with a red block and position it directly above the green block.",
+        "level": "easy"
+      },
+      "task227": {
+        "mode": "VL",
+        "image": "392.png",
+        "description": "Use all the blocks to form a triangle with one block at the top and two blocks side by side at the bottom.",
+        "level": "easy"
+      },
+      "task228": {
+        "mode": "VL",
+        "image": "399.png",
+        "description": "Build the two-block stack from the image, then place the single block adjacent to the right of the bottom block in the stack.",
+        "level": "easy"
+      },
+      "task229": {
+        "mode": "VL",
+        "image": "404.png",
+        "description": "Build a structure with one orange block in the center, then arrange four blue blocks equidistantly around it, forming a cross shape.",
+        "level": "easy"
+      },
+      "task230": {
+        "mode": "VL",
+        "image": "414.png",
+        "description": "Build the structure as a triangle with one block at the top and two blocks at the bottom, then replace the top block with a green block.",
+        "level": "easy"
+      },
+      "task231": {
+        "mode": "VL",
+        "image": "420.png",
+        "description": "Build the structure by stacking the two orange blocks, then add the blue block on top, creating a vertical stack of three blocks.",
+        "level": "easy"
+      },
+      "task232": {
+        "mode": "VL",
+        "image": "147.png",
+        "description": "Stack the two yellow blocks vertically, then place the red block to the left side of the yellow stack and the green block to the right side, forming a horizontal line with the yellow stack in the center.",
+        "level": "easy"
+      },
+      "task233": {
+        "mode": "VL",
+        "image": "312.png",
+        "description": "Build the two blocks side by side, then add a green block on top of the red block to create a taller stack on the left side.",
+        "level": "easy"
+      },
+      "task234": {
+        "mode": "VL",
+        "image": "358.png",
+        "description": "Build the two-block structure on the left, then add the single block from the right on top of the blue block.",
+        "level": "easy"
+      },
+      "task235": {
+        "mode": "VL",
+        "image": "358.png",
+        "description": "Build the two-block structure with the green block on the left and blue block on the right, then place the red block directly on top of the blue block.",
+        "level": "easy"
+      },
+      "task236": {
+        "mode": "VL",
+        "image": "392.png",
+        "description": "Arrange the blocks into a triangular formation, then replace one block with a blue block.",
+        "level": "easy"
+      },
+      "task237": {
+        "mode": "VL",
+        "image": "404.png",
+        "description": "Build a structure by placing the orange block in the center, then arrange the four blue blocks in a square formation around it, each block equidistant from the center block.",
+        "level": "easy"
+      },
+      "task238": {
+        "mode": "VL",
+        "image": "404.png",
+        "description": "Build the central block in orange, then surround it evenly with four blue blocks forming a square around the center.",
+        "level": "easy"
+      },
+      "task239": {
+        "mode": "VL",
+        "image": "413.png",
+        "description": "Rebuild the three-block arrangement as a straight horizontal line, replacing the orange block with yellow and the two red blocks with blue and green respectively.",
+        "level": "easy"
+      },
+      "task240": {
+        "mode": "VL",
+        "image": "415.png",
+        "description": "Arrange three blocks to form a triangle shape, then replace one block with a blue block.",
+        "level": "easy"
+      },
+      "task241": {
+        "mode": "VL",
+        "image": "420.png",
+        "description": "Build the two-block vertical stack using orange blocks, then place a single blue block one block space to the right of the orange stack.",
+        "level": "easy"
+      },
+      "task242": {
+        "mode": "VL",
+        "image": "421.png",
+        "description": "Build the two adjacent blocks from the image, then add the third block on top of the blue block. Change the top block color to green.",
+        "level": "easy"
+      },
+      "task243": {
+        "mode": "VL",
+        "image": "312.png",
+        "description": "Place the red and yellow blocks side by side horizontally with a one-block gap between them, then add a blue block directly behind the red block and a green block behind the yellow block.",
+        "level": "easy"
+      },
+      "task244": {
+        "mode": "VL",
+        "image": "314.png",
+        "description": "Build the three-block structure as shown, but replace the two blue blocks with green blocks on both sides of the red block.",
+        "level": "easy"
+      },
+      "task245": {
+        "mode": "VL",
+        "image": "316.png",
+        "description": "Build the two-block stack from the image, then place the single block adjacent to the right of the stack for a horizontal arrangement.",
+        "level": "easy"
+      },
+      "task246": {
+        "mode": "VL",
+        "image": "320.png",
+        "description": "Build the three blocks in a vertical stack, starting with the yellow block at the bottom, the orange block in the middle, and the red block on top. Then, to the right of this stack, place a single blue block.",
+        "level": "easy"
+      },
+      "task247": {
+        "mode": "VL",
+        "image": "357.png",
+        "description": "Arrange all the blocks in a vertical stack, with green block at the bottom, blue block in the middle, and red block on top.",
+        "level": "easy"
+      },
+      "task248": {
+        "mode": "VL",
+        "image": "392.png",
+        "description": "Build a triangular arrangement of three blocks with green colors and replace the bottom block with a red block.",
+        "level": "easy"
+      },
+      "task249": {
+        "mode": "VL",
+        "image": "404.png",
+        "description": "Build a central orange block and surround it with four blue blocks arranged in a square, then replace one blue block with a green block.",
+        "level": "easy"
+      },
+      "task250": {
+        "mode": "VL",
+        "image": "412.png",
+        "description": "Build the two red blocks side by side on the same level, then place an orange block on top of the red block on the right.",
+        "level": "easy"
+      },
+      "task251": {
+        "mode": "VL",
+        "image": "178.png",
+        "description": "Build the structure using three blocks, but replace the green block in the center with a blue block and position all blocks in a straight horizontal line.",
+        "level": "easy"
+      },
+      "task252": {
+        "mode": "VL",
+        "image": "313.png",
+        "description": "Build the structure by stacking two blocks vertically, then add a third block next to the bottom block to create an L-shaped formation.",
+        "level": "easy"
+      },
+      "task253": {
+        "mode": "VL",
+        "image": "316.png",
+        "description": "Stack the two blocks on the left vertically, then place the single block from the right directly to the left side of the bottom block in the stack, forming an L shape.",
+        "level": "easy"
+      },
+      "task254": {
+        "mode": "VL",
+        "image": "319.png",
+        "description": "Build the two blocks on the left as a vertical stack, then position the single block on the right to the right side of the bottom block in the stack.",
+        "level": "easy"
+      },
+      "task255": {
+        "mode": "VL",
+        "image": "319.png",
+        "description": "Build the two-block structure first, then place the single block directly on top of the right block of the two-block structure.",
+        "level": "easy"
+      },
+      "task256": {
+        "mode": "VL",
+        "image": "344.png",
+        "description": "Build the structure in the image, then replace the second block from the top with a yellow block and the third block from the top with a red block.",
+        "level": "easy"
+      },
+      "task257": {
+        "mode": "VL",
+        "image": "385.png",
+        "description": "Arrange all the blocks in a straight horizontal line, then replace the second block from the left with a blue block.",
+        "level": "easy"
+      },
+      "task258": {
+        "mode": "VL",
+        "image": "385.png",
+        "description": "Build a straight horizontal line of four blocks, using only blue, yellow, orange, and green colors, without repeating the same color twice in a row.",
+        "level": "easy"
+      },
+      "task259": {
+        "mode": "VL",
+        "image": "394.png",
+        "description": "Build a single yellow block as the base, then add a blue block directly on top of it.",
+        "level": "easy"
+      },
+      "task260": {
+        "mode": "VL",
+        "image": "413.png",
+        "description": "Arrange the blocks in a triangle shape, then replace one block with blue and another with yellow.",
+        "level": "easy"
+      },
+      "task261": {
+        "mode": "VL",
+        "image": "416.png",
+        "description": "Arrange the blocks to form a triangle, then replace the yellow block with a blue block.",
+        "level": "easy"
+      },
+      "task262": {
+        "mode": "VL",
+        "image": "423.png",
+        "description": "Build the structure using all blocks, but arrange them in a vertical stack with the yellow block at the bottom, followed by the orange block, and the blue block on top.",
+        "level": "easy"
+      },
+      "task263": {
+        "mode": "VL",
+        "image": "423.png",
+        "description": "Build the structure using all three blocks in a straight horizontal line, starting with the blue block on the left, followed by the orange block, and ending with the yellow block on the right.",
+        "level": "easy"
+      },
+      "task264": {
+        "mode": "VL",
+        "image": "424.png",
+        "description": "Build the structure with two blocks side by side, using one green block on the left and one red block on the right.",
+        "level": "easy"
+      },
+      "task265": {
+        "mode": "VL",
+        "image": "145.png",
+        "description": "Build a horizontal line of three blocks, then replace the middle block with a blue one and add a green block on top of the rightmost block.",
+        "level": "easy"
+      },
+      "task266": {
+        "mode": "VL",
+        "image": "145.png",
+        "description": "Build the three blocks in a straight horizontal line, then replace the middle block with a red one.",
+        "level": "easy"
+      },
+      "task267": {
+        "mode": "VL",
+        "image": "312.png",
+        "description": "Build the two blocks side by side, then add a blue block on top of each one.",
+        "level": "easy"
+      },
+      "task268": {
+        "mode": "VL",
+        "image": "314.png",
+        "description": "Build the structure as a vertical stack with the red block at the bottom and the two blue blocks stacked above it.",
+        "level": "easy"
+      },
+      "task269": {
+        "mode": "VL",
+        "image": "320.png",
+        "description": "Build the three-block structure in a horizontal row, then add a blue block to the left end and a green block to the right end, creating a five-block line.",
+        "level": "easy"
+      },
+      "task270": {
+        "mode": "VL",
+        "image": "324.png",
+        "description": "Arrange three blocks in a triangular formation, using one of each color: green, blue, and yellow.",
+        "level": "easy"
+      },
+      "task271": {
+        "mode": "VL",
+        "image": "352.png",
+        "description": "Arrange the three blocks to form a triangle, then replace the green block with an orange block.",
+        "level": "easy"
+      },
+      "task272": {
+        "mode": "VL",
+        "image": "363.png",
+        "description": "Arrange all the blocks in the image into a circle, then replace the red block with a yellow block.",
+        "level": "easy"
+      },
+      "task273": {
+        "mode": "VL",
+        "image": "399.png",
+        "description": "Build the two-block stack in the image, then add a green block on top of the blue block.",
+        "level": "easy"
+      },
+      "task274": {
+        "mode": "VL",
+        "image": "402.png",
+        "description": "Build a triangular formation using three blue blocks, then replace one block with a red block on the left side.",
+        "level": "easy"
+      },
+      "task275": {
+        "mode": "VL",
+        "image": "402.png",
+        "description": "Group the blocks together to form a triangular pyramid shape, then replace one block with a red block.",
+        "level": "easy"
+      },
+      "task276": {
+        "mode": "VL",
+        "image": "405.png",
+        "description": "Build the two blocks side by side horizontally, then replace one block with a green block and the other with a blue block.",
+        "level": "easy"
+      },
+      "task277": {
+        "mode": "VL",
+        "image": "415.png",
+        "description": "Arrange the blocks in a triangle shape, then replace the green block with a blue one.",
+        "level": "easy"
+      },
+      "task278": {
+        "mode": "VL",
+        "image": "416.png",
+        "description": "Build a triangular structure using three blocks, then place a blue block at the center of the triangle.",
+        "level": "easy"
+      },
+      "task279": {
+        "mode": "VL",
+        "image": "416.png",
+        "description": "Build the three blocks in a triangle formation, then add a blue block in the center of the triangle.",
+        "level": "easy"
+      },
+      "task280": {
+        "mode": "VL",
+        "image": "425.png",
+        "description": "Build the structure using the same block arrangement but replace the orange block with yellow and the red block with blue.",
+        "level": "easy"
+      },
+      "task281": {
+        "mode": "VL",
+        "image": "148.png",
+        "description": "Build the two yellow blocks stacked, then replace the green block on the right with an orange block and place it on top of the yellow stack. Finally, move the red block to the left side of the yellow and orange stack.",
+        "level": "medium"
+      },
+      "task282": {
+        "mode": "VL",
+        "image": "398.png",
+        "description": "Build the two-block stack on the left with the orange block at the bottom and the blue block on top, then place a single blue block to the right of this stack, and replace the orange block on the right with a yellow block.",
+        "level": "medium"
+      },
+      "task283": {
+        "mode": "VL",
+        "image": "314.png",
+        "description": "Build the original structure but replace the two blue blocks with green blocks instead. Then, add a vertical stack of two yellow blocks on top of the middle red block.",
+        "level": "medium"
+      },
+      "task284": {
+        "mode": "VL",
+        "image": "346.png",
+        "description": "Build a straight horizontal line using all four blocks, replacing the orange block with a yellow one. Then swap the positions of the two blue blocks so that they are at each end of the line.",
+        "level": "medium"
+      },
+      "task285": {
+        "mode": "VL",
+        "image": "388.png",
+        "description": "Build the structure as shown, then add a yellow block on top of the blue block and place a green block adjacent to the bottom orange block, forming a wider base.",
+        "level": "medium"
+      },
+      "task286": {
+        "mode": "VL",
+        "image": "411.png",
+        "description": "Build two separate pairs of blocks, each pair consisting of two blocks of different colors placed side by side, then mirror the second pair horizontally relative to the first pair.",
+        "level": "medium"
+      },
+      "task287": {
+        "mode": "VL",
+        "image": "412.png",
+        "description": "Recreate the structure by stacking two blocks, but replace the top block with a green block and position the single block to the right with a blue block instead.",
+        "level": "medium"
+      },
+      "task288": {
+        "mode": "VL",
+        "image": "418.png",
+        "description": "Build the two blocks in the bottom row from the image, then place the top block one position to the right and use blue instead of green.",
+        "level": "medium"
+      },
+      "task289": {
+        "mode": "VL",
+        "image": "420.png",
+        "description": "Build the two-block stack and the single block side by side, then add a yellow block on top of the single block to create a taller structure with varied colors.",
+        "level": "medium"
+      },
+      "task290": {
+        "mode": "VL",
+        "image": "426.png",
+        "description": "Use all the blocks in the image to form a vertical stack, arranging them from bottom to top in the order of yellow, red, and two blue blocks.",
+        "level": "medium"
+      },
+      "task291": {
+        "mode": "VL",
+        "image": "407.png",
+        "description": "Build only the three blocks forming a triangle in the image, replacing the orange block with yellow. Then, move the blue block to the center of the triangle.",
+        "level": "hard"
+      },
+      "task292": {
+        "mode": "VL",
+        "image": "409.png",
+        "description": "Build the structure using alternating colors, but start with a green block instead of the first orange block. Then, create a mirrored duplicate of this new structure adjacent to the right side.",
+        "level": "hard"
+      },
+      "task293": {
+        "mode": "VL",
+        "image": "6.png",
+        "description": "Build the base layer using two yellow and two orange blocks arranged in a square. Then place the green block on one side of the base layer. Finally, put the blue block on top, centered above the green block.",
+        "level": "hard"
+      },
+      "task294": {
+        "mode": "VL",
+        "image": "86.png",
+        "description": "Use the single block in the image as the center of your structure, then build a symmetrical cross around it using green blocks.",
+        "level": "hard"
+      },
+      "task295": {
+        "mode": "VL",
+        "image": "143.png",
+        "description": "Recreate the structure but replace all yellow blocks with green. Then, move the right column two blocks to the left so both columns are adjacent.",
+        "level": "hard"
+      },
+      "task296": {
+        "mode": "VL",
+        "image": "258.png",
+        "description": "Build the base layer as a straight horizontal line with three green blocks. On top of the base, place two orange blocks side by side at the left and right positions, leaving the center empty. Finally, place a yellow block centered on top of the empty space between the orange blocks.",
+        "level": "hard"
+      },
+      "task297": {
+        "mode": "VL",
+        "image": "61.png",
+        "description": "Build the structure as a pyramid shape, but use blue blocks for the base layer, orange blocks for the middle layer, and green blocks for the top block.",
+        "level": "hard"
+      },
+      "task298": {
+        "mode": "VL",
+        "image": "153.png",
+        "description": "Build the structure in the image, but replace the red blocks with blue blocks. Then, move the right group one block to the left to bring the two groups closer together.",
+        "level": "hard"
+      },
+      "task299": {
+        "mode": "VL",
+        "image": "61.png",
+        "description": "Build the original structure but replace all blocks with green ones. Then, add an additional layer on top by placing one blue block centered above the top block.",
+        "level": "hard"
+      },
+      "task300": {
+        "mode": "VL",
+        "image": "274.png",
+        "description": "Recreate the structure but use green blocks for the vertical stacks and blue blocks for the diagonal connecting blocks. Then, move the left vertical stack one block closer to the right stack to make the diagonal connection shorter.",
+        "level": "hard"
+      }
+  }
